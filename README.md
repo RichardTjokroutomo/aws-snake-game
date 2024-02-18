@@ -8,3 +8,6 @@ This is a simple Snake Game whose HTML, CSS, & JS codes I got from this video ht
 
 ## System Diagram
 ![API Commands](./views/aws-diagram.png)
+
+## Snake Game
+![API Commands](./views/snake-game.png)

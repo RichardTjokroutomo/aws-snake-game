@@ -7,7 +7,7 @@ This is a simple Snake Game whose HTML, CSS, & JS codes I got from this video ht
 - Setup a custom VPC from scratch, where I manually setup the private & public subnets with the appropiate CIDR ranges, before associating them using Route tables.
 
 ## System Diagram
-![API Commands](./views/aws-diagram.png)
+![System Diagram](./views/aws-diagram.png)
 
 ## Snake Game
-![API Commands](./views/snake-game.png)
+![Snake Game Screenshot](./views/snake-game.png)
